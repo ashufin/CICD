@@ -6,7 +6,9 @@ public class Address {
 	String streetName;
 	String city;
 	long pinCode;
-	
+	/**
+	 * Adding comment
+	 */
 	public Address() {
 		super();
 		// TODO Auto-generated constructor stub
